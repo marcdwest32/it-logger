@@ -8,11 +8,11 @@
       "id": 1
     },
     {
-      "message": "Fight after school by the palm trees",
-      "attention": true,
-      "tech": "Sick Weiner",
-      "date": "2019-11-05T00:03:19.755Z",
-      "id": 2
+      "id": 2,
+      "message": "Whipped that dude's ass!",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2019-11-05T01:30:49.127Z"
     }
   ],
   "techs": [
